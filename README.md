@@ -1,4 +1,3 @@
-![image](https://github.com/yeokim5/leetcode/assets/66398851/50aa5a5d-7507-43c8-ad50-61bc1c2a06ff)# leetcode
 
 
 ### • 7 Encode and Decode Strings
