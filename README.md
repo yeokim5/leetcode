@@ -1,4 +1,4 @@
-![image](https://github.com/yeokim5/leetcode/assets/66398851/21dd83e2-c721-4e3d-93c5-771109e5c4ed)
+
 
 ### • 7 Valid Sudoku
 #### Arrays / Solved: Yes
