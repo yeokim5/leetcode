@@ -1,4 +1,4 @@
-
+![image](https://github.com/yeokim5/leetcode/assets/66398851/284d3f85-ce24-450f-93a3-be2620052dbd)
 
 ### • 7 Valid Sudoku
 #### Arrays / Solved: Yes
@@ -24,3 +24,7 @@ two ways to solve 1. for loop O(n^2) -> brute force, 2.two pointer -> optimal so
 ### • 12 3 SUM
 #### Two Pointer / Solved: Yes
 1. nums.sort() 2. while l < r and the value doesn't contain same value as next one
+
+### • 13 Container With Most Water
+#### Two Pointer / Solved: Yes
+1. l, r = 0, len(s) -1, 2. check min(l,r) * (r-l), use max(res, the value from min) to compare
